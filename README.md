@@ -1,8 +1,13 @@
-### 使用方法
+Introduction
+
+Introducing the revolutionary "1-click 3D NFT gallery generation" - the ultimate solution for artists, creators, and collectors seeking to showcase their digital art and collectibles. With just a single click, this innovative platform generates a stunning 3D gallery of your NFTs, complete with customizable layouts, lighting, and interactive features. Say goodbye to the tedious and time-consuming process of manually creating and curating galleries, and hello to a seamless and effortless way to showcase your NFTs to the world. Whether you're a seasoned collector or a burgeoning artist, this cutting-edge service is sure to elevate your NFT experience to new heights.
+
+
+### How to integrate
 
 <br>
 
-#### 直接嵌入 iframe
+#### Embed iframe
 
 <br>
 
@@ -14,26 +19,26 @@
 ></iframe>
 ```
 
-#### code 演示地址
+#### code demo
 
 <br>
 
-[演示地址](http://d1wpdgybhiu092.cloudfront.net/demo.html)
+[demo](http://d1wpdgybhiu092.cloudfront.net/demo.html)
 
-#### 你也可以直接拼接您的钱包地址在我们的链接后面 这样我们就会直接帮你生成对应的元宇宙空间
+#### You can directly append any wallet address behind the demo url, to automatically generate the corresponding NFT gallery. 
 
 <br>
 
 ```html
 <iframe
   class="iframe_css_may"
-  src="https://web3.may.social/{您的钱包地址}"
+  src="https://web3.may.social/{Your wallet address}"
   frameborder="0"
 ></iframe>
 ```
 
-#### code 演示地址
+#### code demo
 
 <br>
 
-[演示地址](https://web3.may.social/0x5D9E60879a46E540165E83e8c6AE515D5DFd6D5b)
+[demo](https://web3.may.social/0x5D9E60879a46E540165E83e8c6AE515D5DFd6D5b)
